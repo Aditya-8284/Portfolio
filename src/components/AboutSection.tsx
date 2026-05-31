@@ -21,9 +21,8 @@ const AboutSection = () => {
               </div>
               <h3 className="text-xl font-semibold mb-2">Education</h3>
               <p className="text-muted-foreground">
-                BCA<br />
-                Graduation Year: 2025<br />
-                CGPA: 8.3/10
+                MCA<br />
+                Graduation Year: 2027<br />
               </p>
             </CardContent>
           </Card>
